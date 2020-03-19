@@ -30,10 +30,8 @@ gem 'turbolinks'
 # Use Unicorn as the app server
 # gem 'unicorn'
 
-gem 'omniauth' 
+gem 'omniauth'
 gem 'omniauth-facebook'
-gem 'omniauth-google'
-gem 'omniauth-twitter'
 gem 'dotenv-rails'
 
 # Use Capistrano for deployment
